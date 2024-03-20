@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    height: 90vh; /* para ocupar exatamente toda tela 100vh */
+}
+
+#centerbox {
+    padding: 1%;
+    border-style: dashed;
+    border-color: black;
+    background-color: aliceblue;
+}
